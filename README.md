@@ -48,18 +48,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocosta35&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&card_width=320" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=pedrocosta35&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrocosta35&theme=tokyo-night&area=true&hide_border=true&radius=16" height="300" alt="activity-graph graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrocosta35&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocosta35/pedrocosta35/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrocosta35/pedrocosta35/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrocosta35/pedrocosta35/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
