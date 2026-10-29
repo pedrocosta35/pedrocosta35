@@ -50,6 +50,3 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pedrocosta35&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="170" alt="quote" />
-</div>
